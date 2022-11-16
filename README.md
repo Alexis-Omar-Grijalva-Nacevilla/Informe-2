@@ -48,6 +48,7 @@ La relación de corriente, voltaje y resistencia
 
 
 SECCIÓN 3–2 Cálculo de la corriente
+
  15. Determine la corriente en cada caso:
 
 ![image](https://user-images.githubusercontent.com/117738904/202059123-e5718829-4924-40fc-a250-449253ac3eff.png)
