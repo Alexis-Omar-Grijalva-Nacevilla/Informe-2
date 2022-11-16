@@ -98,6 +98,96 @@ SECCIÓN 3–2 Cálculo de la corriente
 
 
 
+CAPÍTULO 4
+
+SECCIÓN 4–1 Energía y potencia
+
+1. Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere
+
+![image](https://user-images.githubusercontent.com/117738904/202060001-85063e18-4bd5-43a4-bd35-e39358af9792.png)
+
+3. ¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?	
+
+![image](https://user-images.githubusercontent.com/117738904/202060055-f11341cf-a075-4022-8094-f4c185743240.png)
+
+5. ¿A cuántos watts equivalen 1000 J en 50 ms?
+
+![image](https://user-images.githubusercontent.com/117738904/202060092-9b3d6f34-e1dc-43cd-8916-6a5f47d6f3c8.png)
+
+7. Convierta las siguientes cantidades en megawatts: 
+
+![image](https://user-images.githubusercontent.com/117738904/202060189-13001bcf-306f-4337-a10b-1c24ddb356c3.png)
+
+9. Convierta las siguientes cantidades en microwatts: 
+
+![image](https://user-images.githubusercontent.com/117738904/202060253-b40b75f8-6021-4c14-8641-3ed2c8431f22.png)
+
+11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?
+
+![image](https://user-images.githubusercontent.com/117738904/202060304-cbd6bfe7-488f-4f97-8daa-0da196878a80.png)
+
+13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?
+
+![image](https://user-images.githubusercontent.com/117738904/202060331-274c98d6-8b30-4791-b3e2-f5f209e61f23.png)
+
+15. Convierta 6700 watts-segundos en kWh
+
+![image](https://user-images.githubusercontent.com/117738904/202060381-727994d1-bdb1-42b7-9200-2e0f141bbc40.png)
+
+SECCIÓN 4–2 Potencia en un circuito eléctrico
+
+17. Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?
+
+![image](https://user-images.githubusercontent.com/117738904/202060521-97455390-41ac-4e4e-982f-aeae6f3829d0.png)
+
+19. Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?
+
+![image](https://user-images.githubusercontent.com/117738904/202060567-6bf12e06-0914-4e43-926a-9a9d6498f2d0.png)
+
+21. Calcule la potencia disipada por un resistor de 10 k Ω que transporta 100 mA.
+
+![image](https://user-images.githubusercontent.com/117738904/202060598-13bd2395-c4d7-479b-a333-680397cb730b.png)
+
+23. Se conecta un resistor de 56 Ω  entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de potencia en el resistor?
+
+![image](https://user-images.githubusercontent.com/117738904/202060651-44ed318f-2af6-4473-b4d1-eeb1cf1cf689.png)
+
+25. Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Ω. (a) ¿Cuánta energía se utiliza en dos minutos? (b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
+
+![image](https://user-images.githubusercontent.com/117738904/202060701-fd4ef751-3d4e-4dbf-86da-7aa0d105acb6.png)
+
+SECCIÓN 4–3 Clasificaciones de potencia en resistores
+
+27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?
+
+![image](https://user-images.githubusercontent.com/117738904/202060740-469bbfb9-2b9b-4192-8406-0421637cbb04.png)
+
+SECCIÓN 4–5 Fuentes de potencia 
+
+29. Una carga de 50 Ω utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?
+
+![image](https://user-images.githubusercontent.com/117738904/202060779-87a755c3-955b-4246-b96e-1ed3c48365a0.png)
+
+31. ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?
+
+![image](https://user-images.githubusercontent.com/117738904/202060917-2740c761-178a-4815-a1d0-400fd6102c1e.png)
+
+33. ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?
+
+![image](https://user-images.githubusercontent.com/117738904/202060953-8c1ad33f-9d96-4205-9e13-2b2eaddca08a.png)
+
+35. Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál es la eficiencia de esta fuente de potencia?
+
+
+![image](https://user-images.githubusercontent.com/117738904/202060989-85ae6c76-4632-4c0a-9955-5f2a2fe92a0d.png)
+
+
+37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
+
+![image](https://user-images.githubusercontent.com/117738904/202061023-933f98d7-557e-43e4-a11e-3d1a6f3a225e.png)
+
+
+
 
 
 
