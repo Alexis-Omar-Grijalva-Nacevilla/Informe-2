@@ -8,6 +8,13 @@ FECHA: 11/11/2022
 
 1. OBJETIVOS
 
+- Entender  la ley de Ohm mediante la relación que existe entre la corriente, voltaje, y resistencia.
+-  Entender la forma correcta de   localizar   fallas en un circuito eléctrico y  corregir esta falla aplicando el método APM.
+-  Definir energía y potencia, y a la vez entender como actúa la potencia en un circuito eléctrico. 
+-  Analizar las fuentes de potencia y sus característica.
+- Comprender la conversión de energía y la caída de voltaje
+
+
 2. MARCO TEÓRICO
 
 CAPÍTULO 3  -  LEY DE OHM
@@ -17,6 +24,17 @@ CAPÍTULO 3  -  LEY DE OHM
 
 
 CAPÍTULO 4  -  ENERGÍA Y POTENCIA
+
+La potencia eléctrica indica el ritmo al que se produce, transporta o consume energía.
+
+La potencia es el resultado de multiplicar el voltaje (que indica la energía que transporta cada unidad de carga) por la intensidad (que indica la cantidad de carga que se mueve cada segundo).
+
+La unidad de potencia es el vatio (W), que en electricidad equivale a una corriente de 1 A y 1 V.
+
+La unidad de energía es el julio (J), que en electricidad equivale a una corriente de 1 A y 1 V que fluye durante 1 s.
+
+Una unidad alternativa de energía es el kilovatio-hora (kWh), que equivale a una potencia de 1 kW que funciona durante 1 h.
+
 
 
 ![image](https://user-images.githubusercontent.com/117738904/202496156-bbe6db83-9de3-4d5c-a66a-a10771e25be9.png)
@@ -211,5 +229,12 @@ SECCIÓN 4–5 Fuentes de potencia
 5. Conclusiones
 
 6.  Bibliografia
+
+El Tamiz. (04 de 02 de 2010). Recuperado el 17 de 11 de 2022, de https://eltamiz.com/2010/02/04/electricidad-i-potencia-y-energia-electricas/#:~:text=La%20potencia%20el%C3%A9ctrica%20indica%20el,que%20se%20mueve%20cada%20segundo).
+
+Fluke. (s.f.). Recuperado el 17 de 11 de 2022, de https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-ley-de-ohm
+
+
+Kosner. (17 de 11 de 2010). Kosner. Recuperado el 17 de 11 de 2022, de https://www.kosner.es/relacion-potencia-energia/
 
 
