@@ -245,13 +245,18 @@ SECCIÓN 4–5 Fuentes de potencia
 
 5. Conclusiones
 
--Haber entendido  como se relaciona la corriente con el voltaje y la resistencia nos permite  entender el funcionamiento de un circuito resistivo.
+- Haber entendido  como se relaciona la corriente con el voltaje y la resistencia nos permite  entender el funcionamiento de un circuito resistivo.
+- Por tanto es indispensable saber manejar de una manera correcta la fórmula de la ley de ohm ya que de esta manera podemos encontrar fácilmente el dato deseado  sin equivocaciones 
+- Alta  eficiencia significa que en la fuente de potencia se disipa muy poca potencia, y que existe una proporción más alta de potencia de salida con determinada potencia de entrada.
+- Se puede concluir  que entender el comportamiento de la potencia en un circuito eléctrico nos permite deducir que la potencia nominal es la cantidad máxima de potencia que un resistor puede disipar sin que sufra daños por calentamiento excesivo. 
 
--Por tanto es indispensable saber manejar de una manera correcta la fórmula de la ley de ohm ya que de esta manera podemos encontrar fácilmente el dato deseado  sin equivocaciones 
 
--Alta  eficiencia significa que en la fuente de potencia se disipa muy poca potencia, y que existe una proporción más alta de potencia de salida con determinada potencia de entrada.
 
--
+
+
+
+
+
 6.  Bibliografia
 
 El Tamiz. (04 de 02 de 2010). Recuperado el 17 de 11 de 2022, de https://eltamiz.com/2010/02/04/electricidad-i-potencia-y-energia-electricas/#:~:text=La%20potencia%20el%C3%A9ctrica%20indica%20el,que%20se%20mueve%20cada%20segundo).
