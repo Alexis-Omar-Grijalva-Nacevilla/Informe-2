@@ -10,6 +10,18 @@ FECHA: 11/11/2022
 
 2. MARCO TEÓRICO
 
+CAPÍTULO 3  -  LEY DE OHM
+
+
+![image](https://user-images.githubusercontent.com/117738904/202491355-91a44cec-7bd8-4d00-8228-0fc23ae68abf.png)
+
+
+CAPÍTULO 4  -  ENERGÍA Y POTENCIA
+
+
+![image](https://user-images.githubusercontent.com/117738904/202496156-bbe6db83-9de3-4d5c-a66a-a10771e25be9.png)
+
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 CAPÍTULO 3
