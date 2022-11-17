@@ -1,12 +1,29 @@
-INFORME # 2
+![image](https://user-images.githubusercontent.com/117738904/202505460-1a814e1b-d67c-4ec0-bd5b-030f4bf7ea42.png)
+
+DEPARTAMENTO DE CIENCIAS DE LA ENERGÍA Y MECÁNICA
+
+MECATRÓNICA
+
+NRC:10067
+
+FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS
+
+
+GRIJALVA ALEXIS 
+
+
+INFORME 2
+
+DOCENTE:  ING. DARWIN OMAR ALULEMA FLORES
+
+FECHA: 17/11/2022
 
 
 
-NOMBRE: Alexis Grijalva
-
-FECHA: 11/11/2022
 
 1. OBJETIVOS
+
+
 
 - Entender  la ley de Ohm mediante la relación que existe entre la corriente, voltaje, y resistencia.
 -  Entender la forma correcta de   localizar   fallas en un circuito eléctrico y  corregir esta falla aplicando el método APM.
@@ -228,6 +245,13 @@ SECCIÓN 4–5 Fuentes de potencia
 
 5. Conclusiones
 
+-Haber entendido  como se relaciona la corriente con el voltaje y la resistencia nos permite  entender el funcionamiento de un circuito resistivo.
+
+-Por tanto es indispensable saber manejar de una manera correcta la fórmula de la ley de ohm ya que de esta manera podemos encontrar fácilmente el dato deseado  sin equivocaciones 
+
+-Alta  eficiencia significa que en la fuente de potencia se disipa muy poca potencia, y que existe una proporción más alta de potencia de salida con determinada potencia de entrada.
+
+-
 6.  Bibliografia
 
 El Tamiz. (04 de 02 de 2010). Recuperado el 17 de 11 de 2022, de https://eltamiz.com/2010/02/04/electricidad-i-potencia-y-energia-electricas/#:~:text=La%20potencia%20el%C3%A9ctrica%20indica%20el,que%20se%20mueve%20cada%20segundo).
